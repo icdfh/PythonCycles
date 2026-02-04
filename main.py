@@ -81,3 +81,4 @@ for i in text:
 print("Пробелов:", spaces)
 print("Букв Е:", e_count)
 
+print("For test")
